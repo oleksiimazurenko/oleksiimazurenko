@@ -11,8 +11,6 @@ I've been in Front End development for a little over a year, yes, yes, I'm just 
 - ⚡ 
 - 🤹🏽 
 
-<br />
-
 ### 🧰 Languages and Tools:
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
@@ -37,7 +35,6 @@ I've been in Front End development for a little over a year, yes, yes, I'm just 
 <br />
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksiimazurenko&langs_count=8&layout=compact" />
-    <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oleksiimazurenko&show_icons=true" />
 
 [website]: https://#
