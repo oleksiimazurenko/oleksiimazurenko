@@ -41,6 +41,6 @@ I've been in Front End development for a little over a year, yes, yes, I'm just 
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
 </details>
 
-[website]: https://webtricks-master.ru/
-[linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
-[instagram]: https://www.instagram.com/corvaxv/
+[website]: https://#
+[linkedin]: https://www.linkedin.com/in/oleksii-mazurenko-896a28237/
+[instagram]: https://#
