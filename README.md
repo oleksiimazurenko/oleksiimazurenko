@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Alex
 
+![](https://komarev.com/ghpvc/?username=oleksiimazurenko)
+
 I've been in Front End development for a little over a year, yes, yes, I'm just a beginner, but this is the coolest thing when a person starts.
 
 ## I'm a FrontEnd Developer, and Teacher
@@ -34,12 +36,9 @@ I've been in Front End development for a little over a year, yes, yes, I'm just 
             
 <br />
 
-<details>
-  <summary>my statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksiimazurenko&langs_count=8&layout=compact" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksiimazurenko&langs_count=8&layout=compact" />
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oleksiimazurenko&show_icons=true" />
-</details>
 
 [website]: https://#
 [linkedin]: https://www.linkedin.com/in/oleksii-mazurenko-896a28237/
