@@ -33,6 +33,10 @@ I've been in Front End development for a little over a year, yes, yes, I'm just 
 [<img align="left" alt="OleksiiMazurenko | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
             
 <br />
+<br />
+<br />
+<br />
+
 
  
 
