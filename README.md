@@ -35,7 +35,7 @@ I've been in Front End development for a little over a year, yes, yes, I'm just 
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksiimazurenko&langs_count=8&layout=compact" />
+<img align="center" width='800' height='200' alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksiimazurenko&langs_count=8&layout=compact" />
  
 [website]: https://#
 [linkedin]: https://www.linkedin.com/in/oleksii-mazurenko-896a28237/
