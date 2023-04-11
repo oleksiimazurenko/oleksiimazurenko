@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Alex
+### Hi 👋.
 
 ## Development and improvement of their skills.
 
