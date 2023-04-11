@@ -18,7 +18,7 @@
 
 [<img align="left" alt="webtricks-master.ru" width="22px" src="https://user-images.githubusercontent.com/101861681/231146141-ddfc688e-a9ed-4c1e-a296-c60ec7994498.png" />][website] 
 [<img align="left" alt="OleksiiMazurenko | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/101861681/231146850-1975cd70-2af5-4916-a035-cbfd67ab8d7e.png" />][linkedin]
-[<img align="left" alt="OleksiiMazurenko | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="OleksiiMazurenko | Instagram" width="22px" src="https://user-images.githubusercontent.com/101861681/231147118-c27c0cb5-2ee2-4f68-b574-eaad77b31d01.png" />][instagram]
             
 <br />
 <br />
