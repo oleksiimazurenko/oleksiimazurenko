@@ -1,10 +1,6 @@
 ### Hi there 👋, I'm Alex
-![](https://komarev.com/ghpvc/?username=oleksiimazurenko)
 
 ## Development and improvement of their skills.
-
-### 🧰 Languages and Tools:
-
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
