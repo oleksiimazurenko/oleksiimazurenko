@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="webtricks-master.ru" width="22px" src="![image](https://user-images.githubusercontent.com/101861681/231146141-ddfc688e-a9ed-4c1e-a296-c60ec7994498.png)" />][website] 
+[<img align="left" alt="webtricks-master.ru" width="22px" src="https://user-images.githubusercontent.com/101861681/231146141-ddfc688e-a9ed-4c1e-a296-c60ec7994498.png" />][website] 
 [<img align="left" alt="OleksiiMazurenko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="OleksiiMazurenko | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
             
