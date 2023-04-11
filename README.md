@@ -1,4 +1,4 @@
-### Hi 👋.
+### Hi 👋
 
 ## Development and improvement of their skills.
 
