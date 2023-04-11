@@ -1,13 +1,7 @@
 ### Hi there 👋, I'm Alex
 ![](https://komarev.com/ghpvc/?username=oleksiimazurenko)
 
-## I am a beginner in Front End Development. I've been studying HTML & CSS for a year now, JS for 7 months. I like to develop and improve my skills.
-
-- 💪 I like to write code;
-- 🎉 I like to develop all kinds of mechanisms;
-- 🥅 I am constantly learning new things;
-- ⚡ I love to travel;
-- 🦴 I love studying history;
+## Development and improvement of their skills.
 
 ### 🧰 Languages and Tools:
 
