@@ -6,7 +6,7 @@
 <img align="left" alt="REACT" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="./tailwindcss.svg" />
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="./icon-tailwindcss.svg" />
 
 
 <br />
