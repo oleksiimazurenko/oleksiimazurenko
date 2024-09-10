@@ -1,9 +1,13 @@
 ### Hello World!, I'm Oleksii, a Ukraine webdeveloper 👋:
+
 ---
+
 🛜 currently working on landee
 <br/>
 👨🏼‍💻 working as a web developer since 2022
+
 ---
+
 ### Tech Stack:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -45,7 +49,9 @@
 ![Lexical](https://img.shields.io/badge/Lexical-4267B2?style=for-the-badge&logo=lexical&logoColor=white)
 
 ---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oleksiimazurenko&show_icons=true)
+
 ---
 
 <br />
