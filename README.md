@@ -2,6 +2,7 @@
 
 ---
 🛜 currently working on landee
+<br/>
 👨🏼‍💻 working as a web developer since 2022
 ---
 ### Tech Stack:
@@ -43,8 +44,9 @@
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge&logo=adobe-audition&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Lexical](https://img.shields.io/badge/Lexical-4267B2?style=for-the-badge&logo=lexical&logoColor=white)
-
-
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+---
 <br />
 
 ### Connect with me:
