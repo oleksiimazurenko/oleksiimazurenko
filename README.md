@@ -2,9 +2,9 @@
 
 ---
 
-🛜 currently working on landee
+currently working on landee
 <br/>
-👨🏼‍💻 working as a web developer since 2022
+working as a web developer since 2022
 
 ---
 
