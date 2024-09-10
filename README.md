@@ -40,7 +40,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleksiimazurenko&layout=compact&hide=html,css&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleksiimazurenko&layout=compact&hide=html,css&theme=dark&border_radius=0)
 
 ---
 
