@@ -40,11 +40,9 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleksiimazurenko&layout=compact&hide=html,css&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleksiimazurenko&layout=compact&hide=html,css&theme=cobalt)
 
 ---
-
-<br />
 
 ### Connect with me:
 
@@ -52,7 +50,6 @@
 [<img align="left" alt="OleksiiMazurenko | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/101861681/231146850-1975cd70-2af5-4916-a035-cbfd67ab8d7e.png" />][linkedin]
 [<img align="left" alt="OleksiiMazurenko | Telegram" width="22px" src="https://user-images.githubusercontent.com/101861681/231151962-d4ad5d6e-7b19-4cd3-9a5c-fc4a717f634e.png"/>][telegram]
             
-<br />
 <br />
  
 [website]: https://#
