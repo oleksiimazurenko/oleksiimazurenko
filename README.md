@@ -1,10 +1,14 @@
-### Hello World!, I'm Oleksii, a Ukraine webdeveloper 👋:
+### Hello World!, I'm Oleksii, a Ukraine developer 👋:
+
+---
+
+My foundation lies in perfectionism, standards, architecture, and contributing to the greater good. 
 
 ---
 
 currently working on landee
 <br/>
-working as a web developer since 2022
+working as a developer since 2022
 
 ---
 
