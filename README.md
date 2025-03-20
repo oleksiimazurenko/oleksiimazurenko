@@ -7,8 +7,6 @@ My foundation lies in perfectionism, standards, architecture, and contributing t
 ---
 
 currently working on landee
-<br/>
-working as a developer since 2022
 
 ---
 
