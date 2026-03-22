@@ -1,29 +1,11 @@
-### Hello World!, I'm Oleksii, a Ukraine developer 👋:
-
----
-
-My foundation lies in perfectionism, standards, architecture, and contributing to the greater good. 
-
----
-
-currently working on landee
+Perfectionism, standards, architecture, and contributing to the greater good.
 
 ---
 
 ### Tech Stack:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleksiimazurenko&layout=compact&hide=html,css&theme=dark&hide_border=true)
 
 ---
 
