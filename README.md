@@ -17,6 +17,6 @@ Perfectionism, standards, architecture, and contributing to the greater good.
             
 <br />
  
-[website]: https://oleksiimazurenko.link
+[website]: https://oleksiimazurenko.dev
 [linkedin]: https://www.linkedin.com/in/oleksii-mazurenko-896a28237/
 [telegram]: https://t.me/oleksii_mazurenko
